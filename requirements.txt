@@ -3,4 +3,4 @@ pandas
 numpy
 plotly
 scikit-learn
-tensorflow
+tensorflow==2.17.0
